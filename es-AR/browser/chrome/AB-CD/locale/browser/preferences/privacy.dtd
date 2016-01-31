@@ -68,7 +68,7 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Quizás también quieras">
+<!ENTITY  dontrememberActions.pre.label          "Quizás también quieras ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpiar tu historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
