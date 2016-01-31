@@ -208,7 +208,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Lo sentimos, pero hubo un error cargando las notas de lanzamiento.">
 
-<!ENTITY addon.createdBy.label                "Por">
+<!ENTITY addon.createdBy.label                "Por: ">
 
 <!ENTITY eula.title                           "Acuerdo de licencia del usuario final">
 <!ENTITY eula.width                           "560px">
