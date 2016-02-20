@@ -15,11 +15,11 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la">
+<!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Licencia Pública de Mozilla (MPL)">
 <!ENTITY rights.intro-point1c ". Esto significa que podés usar, copiar y compartir &brandShortName; con otras personas. También tenés la posibilidad de modificar el código fuente de &brandShortName; como quieras a fin de que éste se ajuste a tus necesidades. La Licencia Pública de Mozilla también te otorga el derecho a distribuir esas versiones modificadas.">
 
-<!ENTITY rights.intro-point2-a "Sin embargo, no se te concede ningún derecho de marca o licencia sobre las marcas registradas de Moonchild Productions o cualquier parte, incluyendo, y sin limitarse a, el nombre y el logotipo de Pale Moon. Podés encontrar información adicional sobre las marcas registradas">
+<!ENTITY rights.intro-point2-a "Sin embargo, no se te concede ningún derecho de marca o licencia sobre las marcas registradas de Moonchild Productions o cualquier parte, incluyendo, y sin limitarse a, el nombre y el logotipo de Pale Moon. Podés encontrar información adicional sobre las marcas registradas ">
 <!ENTITY rights.intro-point2-b "acá">
 <!ENTITY rights.intro-point2-c ".">
 
@@ -51,7 +51,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; usa servicios de información basados en la web (&quot;Servicios&quot;) para proveer algunas de las funciones que puede usar en esta versión binaria de &brandShortName; bajo los términos descriptos debajo. Si no querés usar alguno de los servicios o los términos no son aceptables, podés deshabilitar las funciones o servicio/s. Las instrucciones sobre cómo deshabilitar una función  o servicio en particular pueden encontrarse ">
+<!ENTITY rights2.webservices-a "&brandFullName; usa servicios de información basados en la web (&quot;Servicios&quot;) para proveer algunas de las funciones que puede usar en esta versión binaria de &brandShortName; bajo los términos descriptos debajo. Si no querés usar alguno de los servicios o los términos no son aceptables, podés deshabilitar las funciones o servicio/s. Las instrucciones sobre cómo deshabilitar una función o servicio en particular pueden encontrarse ">
 <!ENTITY rights2.webservices-b "acá">
 <!ENTITY rights3.webservices-c ". Otras funciones y servicios se pueden deshabilitar en la configuración de la aplicación.">
 
@@ -65,7 +65,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "La navegación con ubicación geográfica:">
-<!ENTITY rights.locationawarebrowsing-b "siempre es opcional. Nunca se envía información de ubicación sin tu permiso.  Si querés deshabilitar esta función por completo, seguí estos pasos:">
+<!ENTITY rights.locationawarebrowsing-b "siempre es opcional. Nunca se envía información de ubicación sin tu permiso. Si querés deshabilitar esta función por completo, seguí estos pasos:">
 <!ENTITY rights.locationawarebrowsing-term1a "En la barra de direcciones, ingresá">
 <!ENTITY rights.locationawarebrowsing-term1b "&quot;about:config&quot;">
 <!ENTITY rights.locationawarebrowsing-term2 "Ingresá &quot;geo.enabled&quot;">
