@@ -19,7 +19,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Solicitaste que &brandShortName; se conecte de
 forma segura a <b>#1</b>, pero no podemos confirmar que su conexión sea segura.">
 <!ENTITY certerror.introPara2 "Normalmente, cuando se trata de conectar de forma segura,
-los sitios presentan un identificación confiable para probar que estás
+los sitios presentan una identificación confiable para probar que estás
 accediendo al lugar correcto. Sin embargo, la identidad de este sitio no puede verificarse.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué debería hacer?">
